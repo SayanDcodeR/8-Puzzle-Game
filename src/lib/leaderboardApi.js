@@ -1,4 +1,4 @@
-const API_BASE = '/api';
+const API_BASE = 'https://eight-puzzle-backend-ad9a.onrender.com/api';
 
 /**
  * Fetch leaderboard entries from the API
